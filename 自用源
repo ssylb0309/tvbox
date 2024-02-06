@@ -273,7 +273,6 @@
             "name": "自用直播",
             "type": 0,
             "boot":true,
-            "playerType": 1,
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengzehe/m3u/main/live-online.m3u",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
